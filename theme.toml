@@ -1,0 +1,17 @@
+name = "darkyellow"
+license = "MIT"
+licenselink = "https://github.com/GuillemCastro/darkyellow/blob/master/LICENSE.md"
+description = ""
+homepage = "http://github.com/GuillemCastro/devyellow"
+tags = ["blog","minimal","responsive"]
+features = ["blog","disqus","google-analytics","font-awesome"]
+min_version = "0.55.0"
+
+[author]
+  name = "Guillem Castro"
+  homepage = "https://github.com/GuillemCastro"
+
+[original]
+  name = "b. avianto"
+  homepage = "https://avianto.com"
+  repo = "https://github.com/avianto/hugo-kiera"

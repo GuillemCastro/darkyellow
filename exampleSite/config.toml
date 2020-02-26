@@ -1,0 +1,24 @@
+baseurl = "https://www.example.org/"
+title = "DarkYellow"
+copyright = "Copyright &copy; 2020 - Author Name"
+canonifyurls = true
+theme = "darkyellow"
+themesDir = "../.."
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = ""
+    github = "GuillemCastro"
+    gitlab = ""
+    linkedin = ""
+    facebook = ""
+    twitter = "guillemcastr0"
+    instagram = ""
+
+[params]
+    tagline = "A tagline"
